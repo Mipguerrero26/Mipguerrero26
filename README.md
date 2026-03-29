@@ -1,4 +1,4 @@
-<h1 align="center"">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=FFFFFF&size=35&center=true&Center=true&width=500&height=70&duration=6000&lines=Hellow+world;"/>
 </h1>
 
@@ -6,10 +6,18 @@
     💫 About Me:
 </h1>
 
+<h3 align="center">
+    Junior Software Developer
+</h3>
+
 <p align="center">
-    I’m a Junior Software Developer
+    <img src="thisisfine.gif" width="200" alt="gif this is fine">
+    <br><br>
+    🌱 Learning new technologies and tools.
     <br>
-    <img src="thisisfine.gif" width="150" alt="gif this is fine">
+    🔍 Focused on writing clean code and following best practices.
+    <br>
+    🤝 Open to collaborating and learning from others.
 </p>
 
 <!--
@@ -50,10 +58,6 @@
 </h2>
 
 <p align="center">
-    <a href="https://linkedin.com/in/miguel-piña-guerrero">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://x.com/Mipguerrero26">
-        <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
-    </a>
+    <a href="https://linkedin.com/in/miguel-piña-guerrero"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://x.com/Mipguerrero26"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
 </p>
