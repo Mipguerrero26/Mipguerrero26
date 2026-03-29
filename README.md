@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=FFFFFF&size=35&center=true&Center=true&width=500&height=70&duration=6000&lines=Hellow+world;"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=FFFFFF&size=35&center=true&Center=true&width=500&height=70&duration=6000&lines=Hello+world+!;"/>
 </h1>
 
 <h1>
@@ -58,6 +58,7 @@
 </h2>
 
 <p align="center">
+    <a href="mailto:mipguerrero26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Mail"></a>
     <a href="https://linkedin.com/in/miguel-piña-guerrero"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://x.com/Mipguerrero26"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
 </p>
